@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  return <div className="App">NetFlix</div>;
+  return <div className="App">NetFlix !!</div>;
 }
 
 export default App;
