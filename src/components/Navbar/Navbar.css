@@ -2,4 +2,24 @@
   border: 1px solid;
   padding: 5px;
   text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+.Logo {
+  width: 20%;
+}
+
+.NavList {
+  width: 30%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.NavList li {
+  cursor: pointer;
+}
+.NavList li:hover {
+  color: blue;
 }
