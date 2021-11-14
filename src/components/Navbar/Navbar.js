@@ -6,7 +6,14 @@ export default function Navbar() {
   return (
     <nav className="Navbar">
       <div className="Logo">
-        <Link to="/"> Logo </Link>
+        <Link to="/">
+          {" "}
+          <img
+            src="https://play-lh.googleusercontent.com/0rgPYj0GwZ6txpYZrzoMdhwzqg7vY6C9B-Ol7jlaz-Ox2rgpD4Tr82ZgDqkirrEohbGm=w412-h220-rw"
+            width={100}
+            height={30}
+          />{" "}
+        </Link>
       </div>
       <ul className="NavList">
         <li>
