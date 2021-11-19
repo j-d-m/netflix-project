@@ -1,0 +1,24 @@
+.Card {
+  /* border: 1px solid blue; */
+  height: 150px;
+  padding: 5px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: all 0.2s ease-in-out;
+}
+
+.Card:hover {
+  transform: scale(1.2);
+}
+
+.Card h4 {
+  background-color: rgba(0, 0, 0, 0.253);
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+.Card-Wrapper {
+  text-decoration: none;
+}
