@@ -11,3 +11,14 @@
 .Card:hover {
   transform: scale(1.2);
 }
+
+.Card h4 {
+  background-color: rgba(0, 0, 0, 0.253);
+  text-align: center;
+  color: white;
+  text-decoration: none;
+}
+
+.Card-Wrapper {
+  text-decoration: none;
+}

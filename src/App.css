@@ -11,3 +11,9 @@
 .slick-arrow::before {
   background-color: black;
 }
+
+/* .slick-arrow::after {
+  background-color: black;
+  font-size: 2rem;
+  padding: 20px;
+} */
