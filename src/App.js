@@ -31,5 +31,3 @@ function App() {
 }
 
 export default App;
-
-// the colon is the rout will create a
