@@ -2,10 +2,11 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./Card.css";
 //this is the target for the movie data and it will be an object containing the movie data and title from the api (called movieObject)
-export default function Card({ movie }) {
+export default function Card({ movie, content }) {
   // console.log(movie.image);
+
   return (
-    <Link className="Card-Wrapper" to={"/movie/" + movie.id}>
+    <Link className="Card-Wrapper" to={`/${content}/${movie.id}`}>
       <article
         className="Card"
         style={{ backgroundImage: `url(${movie.image})` }}
@@ -15,3 +16,9 @@ export default function Card({ movie }) {
     </Link>
   );
 }
+
+//reciving params = {key:value}
+// ==> key from Route
+// value from Link
+
+// Link to ={`/${content}/${movie.id}`}
