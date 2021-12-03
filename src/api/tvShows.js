@@ -7,11 +7,11 @@
      description: ,
      image: ,
      video: ,
-     seasons:[
+     season:[
          {
              id: xxx,
              title: '',
-             episodes:[
+             episode:[
                  {
                      id:'',
                      title: '',
@@ -34,28 +34,28 @@ export const actionTvShows = [
     image:
       "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
     video: "https://www.youtube.com/embed/HhesaQXLuRY",
-    seasons: [
+    season: [
       {
         id: "2345678",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098e",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098ee",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
@@ -64,25 +64,25 @@ export const actionTvShows = [
       },
       {
         id: "2345678ww",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098ww",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098eww",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098eeww",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
@@ -99,28 +99,28 @@ export const actionTvShows = [
     image:
       "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
     video: "https://www.youtube.com/embed/0DAmWHxeoKw",
-    seasons: [
+    season: [
       {
         id: "2345678aaasdc",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098aasdc",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098eaascds",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098eeaasdcsd",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
@@ -129,29 +129,29 @@ export const actionTvShows = [
       },
       {
         id: "2345678wwaasdcs",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098wwaasdc",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098ewwaascdc",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
-          {
-            id: "ghv098eewwaasdcds",
-            title: "episodes 3",
-            image:
-              "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
-            video: "https://www.youtube.com/embed/0DAmWHxeoKw",
-          },
+          // {
+          //   id: "ghv098eewwaasdcds",
+          //   title: "episode 3",
+          //   image:
+          //     "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
+          //   video: "https://www.youtube.com/embed/0DAmWHxeoKw",
+          // },
         ],
       },
     ],
@@ -164,21 +164,21 @@ export const actionTvShows = [
     image:
       "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
     video: "https://www.youtube.com/embed/HhesaQXLuRY",
-    seasons: [
+    season: [
       {
         id: "2345678xxx",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098xx",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098exx",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
@@ -187,18 +187,18 @@ export const actionTvShows = [
       },
       {
         id: "2345678wwxx",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098wwxx",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
           },
           {
             id: "ghv098ewwxx",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static2.srcdn.com/wordpress/wp-content/uploads/2019/02/Breaking-Bad.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/HhesaQXLuRY",
@@ -215,28 +215,28 @@ export const actionTvShows = [
     image:
       "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
     video: "https://www.youtube.com/embed/0DAmWHxeoKw",
-    seasons: [
+    season: [
       {
         id: "2345678aaaqqscdsdc",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098aaqqcss",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098eaaqqsdc",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098eeaaqqscdc",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
@@ -245,25 +245,25 @@ export const actionTvShows = [
       },
       {
         id: "2345678wwaaqqsdcds",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098wwaaqqsdcds",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098ewwaaqqscdc",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
           },
           {
             id: "ghv098eewwaaqqsdcsd",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://static3.srcdn.com/wordpress/wp-content/uploads/2019/02/Umbrella-Academy.jpg?q=50&fit=crop&w=740&h=370&dpr=1.5",
             video: "https://www.youtube.com/embed/0DAmWHxeoKw",
@@ -285,28 +285,28 @@ export const newTvShows = [
     image:
       "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
     video: "https://www.youtube.com/embed/fXmAurh012s",
-    seasons: [
+    season: [
       {
         id: "2345678vvsdcdsc",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098vvsdcds",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
           },
           {
             id: "ghv098evvsdcds",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
           },
           {
             id: "ghv098eevvsdcds",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
@@ -323,28 +323,28 @@ export const newTvShows = [
     image:
       "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
     video: "https://www.youtube.com/embed/hhZBDO0CKJo",
-    seasons: [
+    season: [
       {
         id: "2345678aaasdcds",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098aasdcds",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eaasddcds",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eeaasdcds",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
@@ -353,25 +353,25 @@ export const newTvShows = [
       },
       {
         id: "2345678wwaasdcds",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098wwaadscds",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098ewwaasdcds",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eewwaadsfs",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
@@ -389,28 +389,28 @@ export const newTvShows = [
     image:
       "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
     video: "https://www.youtube.com/embed/fXmAurh012s",
-    seasons: [
+    season: [
       {
         id: "2345678vvsdcdscasdxsa",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098vvsdcdsasdsa",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
           },
           {
             id: "ghv098evvsdcdsassda",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
           },
           {
             id: "ghv098eevvsdcdsasds",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/5e81e0043030792722a5e2010ff01321d1c91c04/hub/2021/11/11/ca3dd003-2b97-4f6c-95ae-cf4fad3e6316/211111-arcane3.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/fXmAurh012s",
@@ -427,28 +427,28 @@ export const newTvShows = [
     image:
       "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
     video: "https://www.youtube.com/embed/hhZBDO0CKJo",
-    seasons: [
+    season: [
       {
         id: "2345678aaasdcdsdasda",
-        title: "seasons 1",
-        episodes: [
+        title: "season 1",
+        episode: [
           {
             id: "ghv098aasdcdsasdsa",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eaasddcdsasdsa",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eeaasdcdsasdsa",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
@@ -457,25 +457,25 @@ export const newTvShows = [
       },
       {
         id: "2345678wwaasdcdsasdsa",
-        title: "seasons 2",
-        episodes: [
+        title: "season 2",
+        episode: [
           {
             id: "ghv098wwaadscdsasxdas",
-            title: "episodes 1",
+            title: "episode 1",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098ewwaasdcdsasxsa",
-            title: "episodes 2",
+            title: "episode 2",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",
           },
           {
             id: "ghv098eewwaadsfssad",
-            title: "episodes 3",
+            title: "episode 3",
             image:
               "https://www.tvguide.com/a/img/resize/a90c1dc0438bd33c37a5c676088bbe0147409450/hub/2021/11/04/1f14f150-dc12-479d-a479-7671eed3a092/211104-narcosmexico.jpg?auto=webp&width=1092",
             video: "https://www.youtube.com/embed/hhZBDO0CKJo",

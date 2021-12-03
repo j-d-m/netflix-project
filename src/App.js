@@ -9,6 +9,7 @@ import TvShows from "./pages/TvShows/TvShows";
 import NotFound from "./pages/NotFound/NotFound";
 import "bootstrap/dist/css/bootstrap.min.css";
 import TvShow from "./pages/TvShow/TvShow";
+import TvShowEpisode from "./pages/TvShowEpisode/TvShowEpisode";
 
 function App() {
   return (
@@ -19,10 +20,16 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />}></Route>
           <Route path="/tv-shows" element={<TvShows />}></Route>
-          <Route path="/tv-show/:pageId" element={<TvShow />}></Route>
+          <Route path="/tv-show/:tvShowId" element={<TvShow />}></Route>
           <Route path="/movies" element={<Movies />}></Route>
 
           <Route path="/movie/:pageId" element={<Movie />}></Route>
+          <Route
+            path="/tv-show-episode/:tvShowId/:seasonId/:episodeId"
+            element={<TvShowEpisode />}
+          >
+            {" "}
+          </Route>
 
           <Route path="*" element={<NotFound />}></Route>
         </Routes>

@@ -1,0 +1,37 @@
+.tvShow {
+  display: flex;
+}
+
+.seasons {
+  padding: 5px;
+  width: 30%;
+  margin-right: 5px;
+}
+
+.one_season {
+  padding: 5px;
+  background-color: black;
+  color: white;
+  margin-bottom: 5px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.one_season:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: 1px solid;
+}
+
+.one_episode {
+  margin-bottom: 5px;
+}
+.episodeImage {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.episodeImage:hover {
+  transform: scale(1.2);
+}
